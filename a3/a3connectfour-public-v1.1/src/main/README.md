@@ -1,5 +1,5 @@
 # A3 Connect Four
-    Nicola Petrov (n3petrov 20900354)
+    Nikola Petrov
  
     ## Setup
     * Windows 10
